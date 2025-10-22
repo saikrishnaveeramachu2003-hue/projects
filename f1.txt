@@ -1,0 +1,5 @@
+system.out.println("welcome to the git ccommands");
+int a=20;
+int b=25;
+int c=a+b;
+system.out.println("sum of two numbers"+c);
